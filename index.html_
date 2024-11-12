@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+<head>	
+	<meta charset="utf-8">
+	
+	<title>Plan Verano 2024</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Place favicon.ico in the root directory -->
+	<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+	<!-- ========== Start Stylesheet ========== -->
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="assets/css/fontawesome.min.css" rel="stylesheet" />
+	<link href="assets/css/magnific-popup.css" rel="stylesheet" />
+	<link href="assets/css/owl.carousel.min.css" rel="stylesheet" />
+	<link href="assets/css/owl.theme.default.min.css" rel="stylesheet" />
+	<link href="assets/css/animate.css" rel="stylesheet" />
+	<link href="assets/css/themify-icons.css" rel="stylesheet" />
+	<link href="assets/css/icofont.min.css" rel="stylesheet" />
+	<link href="assets/css/site-flaticon.css" rel="stylesheet" />
+	<link href="style.css" rel="stylesheet">
+	<link href="assets/css/responsive.css" rel="stylesheet" />
+	<!-- ========== End Stylesheet ========== -->
+	
+	<style>
+
+.owl-nav {
+    display: none;
+
+: ;
+}
+    /* Estilos para el overlay (fondo oscuro) */
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7); /* Fondo oscuro semi-transparente */
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Estilos para el contenedor del video */
+    .popup-container iframe {
+      position: relative;
+      max-width:100%;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* Estilos para cerrar el pop-up */
+    .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+      color: #000;
+      font-size: 35px;
+    }
+
+    /* Estilos para el botón de imagen */
+    #imagen-boton {
+      cursor: pointer;
+    }
+    
+    .baner-horarios {
+      max-width: 100%; /* O el ancho deseado para tu diseño */
+      margin: 0 auto; /* Centrar el contenedor en la página */
+      overflow: hidden; /* Para contener márgenes y padding de hijos flotantes */
+    }
+    
+    /* Estilos para la imagen full width dentro del div */
+    .full-width-image {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    
+    .logo-pv {
+      display: block;
+      max-width: 600px;
+      height: auto;
+      justify-content: center;
+      align-items: center;
+     
+    
+    }
+  </style>
+</head>
+
+<body id="bdy">		
+
+
+
+    <img src="assets/img/header/pago.png" class="full-width-image"
+    id="playlists">
+                   
+	
+</body>
+
+</html>
